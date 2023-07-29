@@ -23,7 +23,7 @@ PS: The Exchanges section is still under development.<br> Also the prices listed
 <li><strong>News: </strong> The Latest news about all the cryptos around the world</li>
 </ul>
 
-![Crypt](Crypt.png)
+![Crypt](src/images/Crypt.png)
 
 <br>
 
